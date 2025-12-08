@@ -2,6 +2,4 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-// テスト追加
-// テスト追加2
-// テスト追加3
+// テスト用追加
